@@ -1,0 +1,23 @@
+name: ibm_watson_imagen
+description: Recopilacion y reestructuracion de librerias de ibm en flutter para imagenes file
+version: 0.0.1
+author: Joshe
+homepage:
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  http:
+  path_provider: ^1.1.0
+  path: ^1.6.2
+  dcdg: ^2.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
